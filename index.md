@@ -1,7 +1,6 @@
----
+
 title: "Statistical and Machine Learning"
 subtitle: "Master Course - Humboldt-Universität zu Berlin"
----
 
 ## Course Overview
 This course provides a bridge between classical statistical inference and modern machine learning. 
